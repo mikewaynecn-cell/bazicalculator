@@ -4,7 +4,7 @@
 
 ### Free Bazi Calculator — AI-Powered Four Pillars of Destiny Readings
 
-<a href="https://www.bazicalculator.ai"><img src="assets/screenshot-hero.png" alt="BaziCalculator.ai — Free Bazi Calculator with AI Destiny Readings" width="860"></a>
+<a href="https://www.bazicalculator.ai"><img src="assets/screenshot-hero.png" alt="BaziCalculator.ai — Free Bazi Calculator with AI Destiny Readings" width="780"></a>
 
 <br/>
 
