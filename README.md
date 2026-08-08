@@ -33,14 +33,6 @@ reveal patterns in your personality, career, relationships, and life path.
 BaziCalculator.ai turns this ancient system into a modern, instant, AI-assisted
 reading — **no login required**.
 
-<div align="center">
-
-<a href="https://www.bazicalculator.ai"><img src="assets/screenshot-full.png" alt="BaziCalculator.ai full homepage — Bazi calculator, chart, and AI reading" width="860"></a>
-
-<sub>↑ Full homepage: calculator, Four Pillars chart, glossaries, and FAQ.</sub>
-
-</div>
-
 ---
 
 ## ✨ Features
