@@ -1,18 +1,18 @@
 <div align="center">
 
-# 🌟 BaziCalculator.io
+# 🌟 BaziCalculator.ai
 
 ### Free Bazi Calculator — AI-Powered Four Pillars of Destiny Readings
 
-<a href="https://bazicalculator.io"><img src="assets/screenshot-hero.png" alt="BaziCalculator.io — Free Bazi Calculator with AI Destiny Readings" width="860"></a>
+<a href="https://www.bazicalculator.ai"><img src="assets/screenshot-hero.png" alt="BaziCalculator.ai — Free Bazi Calculator with AI Destiny Readings" width="860"></a>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-bazicalculator.io-Gold?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bazicalculator.io)
-[![Free](https://img.shields.io/badge/No_Sign_Up-Free-Forever-success?style=for-the-badge)](https://bazicalculator.io)
-[![AI](https://img.shields.io/badge/AI_Reading-Gemini_Powered-blueviolet?style=for-the-badge)](https://bazicalculator.io)
+[![Website](https://img.shields.io/badge/Website-bazicalculator.ai-Gold?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bazicalculator.ai)
+[![Free](https://img.shields.io/badge/No_Sign_Up-Free-Forever-success?style=for-the-badge)](https://www.bazicalculator.ai)
+[![AI](https://img.shields.io/badge/AI_Reading-Gemini_Powered-blueviolet?style=for-the-badge)](https://www.bazicalculator.ai)
 
-### 👉 **[Launch the Free Bazi Calculator →](https://bazicalculator.io)**
+### 👉 **[Launch the Free Bazi Calculator →](https://www.bazicalculator.ai)**
 
 </div>
 
@@ -30,12 +30,12 @@ remarkably precise. Around the chart, the **Five Elements (五行)** — Wood, F
 Earth, Metal, and Water — interact through generating and controlling cycles to
 reveal patterns in your personality, career, relationships, and life path.
 
-BaziCalculator.io turns this ancient system into a modern, instant, AI-assisted
+BaziCalculator.ai turns this ancient system into a modern, instant, AI-assisted
 reading — **no login required**.
 
 <div align="center">
 
-<a href="https://bazicalculator.io"><img src="assets/screenshot-full.png" alt="BaziCalculator.io full homepage — Bazi calculator, chart, and AI reading" width="860"></a>
+<a href="https://www.bazicalculator.ai"><img src="assets/screenshot-full.png" alt="BaziCalculator.ai full homepage — Bazi calculator, chart, and AI reading" width="860"></a>
 
 <sub>↑ Full homepage: calculator, Four Pillars chart, glossaries, and FAQ.</sub>
 
@@ -57,9 +57,9 @@ reading — **no login required**.
 
 | | |
 |---|---|
-| 🌐 **Website** | **[https://bazicalculator.io](https://bazicalculator.io)** |
-| 📖 **FAQ** | [bazicalculator.io/faq](https://bazicalculator.io/faq) |
-| ℹ️ **About** | [bazicalculator.io/about](https://bazicalculator.io/about) |
+| 🌐 **Website** | **[https://www.bazicalculator.ai](https://www.bazicalculator.ai)** |
+| 📖 **FAQ** | [bazicalculator.ai/faq](https://www.bazicalculator.ai/faq) |
+| ℹ️ **About** | [bazicalculator.ai/about](https://www.bazicalculator.ai/about) |
 
 ---
 
@@ -99,6 +99,6 @@ for the solar-time correction; the exact minute sharpens the reading.
 
 **Made with ☯ and a lot of caffeine.**
 
-### 👉 **[Try the Free Bazi Calculator →](https://bazicalculator.io)**
+### 👉 **[Try the Free Bazi Calculator →](https://www.bazicalculator.ai)**
 
 </div>
